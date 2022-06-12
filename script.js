@@ -62,7 +62,7 @@ const fooditem=[
         foodimg: 'images/caser saled.jpg',
         price: "6$",
         type: "First_Course",
-        des: "Caesar salad with lettuce,croutons, mozzarella cheese and potatoes"
+        des: "Caesar salad with lettuce, mozzarella cheese and croutons"
     },
     {
         FoodName: "Chicken Soup",
