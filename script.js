@@ -62,21 +62,21 @@ const fooditem=[
         foodimg: 'images/caser saled.jpg',
         price: "6$",
         type: "First_Course",
-        des: "Caesar salad with lettuce, mozzarella cheese and croutons"
+        des: "Caesar salad with lettuce, mozzarella cheese and potatoes"
     },
     {
-        FoodName: "Chicken Soup",
+        FoodName: "chicken Soup",
         foodimg: 'images/Chicken Soup.jpg',
         price: "6$",
         type: "First_Course",
         des: "Chicken soup with vegetables"
     },
     {
-        FoodName: "Vegetable Salad",
+        FoodName: "vegetable Salad",
         foodimg: 'images/Vegetable Salad.webp',
         price: "6$",
         type: "First_Course",
-        des: "Vegetable salad with cucumber, tomato, onion and pepper"
+        des: "Vegetable salad with cucumber, tomato, eggplant, onion and pepper"
     },
 
     {
@@ -130,7 +130,7 @@ const fooditem=[
         des: "Four croissants stuffed with chocolate"
     },
     {
-        FoodName: "Macaroons",
+        FoodName: "macaroons",
         foodimg: 'images/Macaroons.jpeg',
         price: "6$",
         type: "Desert",
