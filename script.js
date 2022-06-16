@@ -14,7 +14,7 @@ const fooditem=[
         foodimg: 'images/oreng.jpeg',
         price: "2$",
         type: "Drinks",
-        des: "0.5L(recommended)"
+        des: "0.5L(This is what I would order when visiting the restaurant.)"
     },
     {
         FoodName: "grape juice",
@@ -62,7 +62,7 @@ const fooditem=[
         foodimg: 'images/caser saled.jpg',
         price: "6$",
         type: "First_Course",
-        des: "Caesar salad with lettuce, mozzarella cheese and potatoes(recommended)"
+        des: "Caesar salad with lettuce, mozzarella cheese and potatoes(This is what I would order when visiting the restaurant.)"
     },
     {
         FoodName: "chicken Soup",
@@ -99,7 +99,7 @@ const fooditem=[
         foodimg: 'images/pizza.jpg',
         price: "11$",
         type: "Main_Course",
-        des: "Family pizza with mozzarella cheese(recommended)"
+        des: "Family pizza with mozzarella cheese(This is what I would order when visiting the restaurant.)"
     },
     {
         FoodName: "vegetarian burger",
@@ -134,7 +134,7 @@ const fooditem=[
         foodimg: 'images/Macaroons.jpeg',
         price: "6$",
         type: "Desert",
-        des: "12 macaroons in different flavors(recommended)"
+        des: "12 macaroons in different flavors(This is what I would order when visiting the restaurant.)"
     },
     {
         FoodName: "cookies",
